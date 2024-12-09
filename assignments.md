@@ -29,14 +29,14 @@ This file contains the list of deliverables for COMP 122. Such deliverables incl
    - Invitation URL: https://classroom.github.com/a/pHmEC8eh
 
 1. Exam 2: Formats and Encodings
-   - Status: Active
+   - Status: Graded 12/7
    - Additional Information: 
    - Deliverable ID: 20-
    - Invitation URL: (provided in class)
    - Due Date: Due Date: During Class: Nov 20/21
 
 1. Quiz 3: Digital Logic
-   - Status: Unassigned
+   - Status: Closed
    - Additional Information: 
      - structure and format is the same as Quiz #1
    - Deliverable ID: 30-
@@ -119,7 +119,7 @@ This file contains the list of deliverables for COMP 122. Such deliverables incl
    - Due Date: Oct 23 23:59 PDT
  
 1. Name: Binary Addition
-   - Status: Released
+   - Status: Graded 11/28
    - Deliverable ID: 24-
    - Invitation URL: https://classroom.github.com/a/6jrqySPT
    - Due Date: Nov 10 23:52 PDT 
@@ -130,7 +130,7 @@ This file contains the list of deliverables for COMP 122. Such deliverables incl
 <h3 id="digital">Digital Logic (Section 3)</h3>
 
 1. Name: Digital-Logic: Practice #1
-   - Status: Unassigned
+   - Status: Graded 12/7
    - Deliverable ID: 31-
    - Invitation URL: https://classroom.github.com/a/o-QeWQ0y
    - Due Date: Dec 6 17:00 PST
@@ -157,7 +157,7 @@ This file contains the list of deliverables for COMP 122. Such deliverables incl
    - Due Date: Oct 27 23:59 PDT
 
 1. Name: nextInt (atoi)
-   - Status: Closed
+   - Status: Graded 11/28
    - Deliverable ID: 44-
    - Invitation URL: https://classroom.github.com/a/HaJo4HOr
    - Due Date: Nov 17 23:59 PST
