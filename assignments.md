@@ -36,7 +36,7 @@ This file contains the list of deliverables for COMP 122. Such deliverables incl
    - Due Date: Due Date: During Class: Nov 20/21
 
 1. Quiz 3: Digital Logic
-   - Status: Closed
+   - Status: Graded, 12/09
    - Additional Information: 
      - structure and format is the same as Quiz #1
    - Deliverable ID: 30-
@@ -45,7 +45,7 @@ This file contains the list of deliverables for COMP 122. Such deliverables incl
    - Due Date: Sunday, Dec 8 23:59 PST
 
 1. Exam 4: MIPS Assembly Language
-   - Status: Assigned
+   - Status: Graded, 12/11
    - Deliverable ID: 40-
    - Invitation URL: https://classroom.github.com/a/R_Nw2T44
    - Due Date: Tuesday, Dec 10 23:59 PST
